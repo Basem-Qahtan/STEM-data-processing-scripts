@@ -6,7 +6,7 @@ A code designed to segment large ensembles of heterogeneous nanocrystals and obt
 
 **2- EDX-Tomography dataset denoising.**
 
-A script written specifically for the deconvolution of Cu x-ray signal that might overlap with other elements in the sample, in EDX Tomography , the EDX spectrum will suffer from intense Cu x-ray signal especcially at high tiliting angles such as +/-60 degrees. the Principal component analysis (PCA) has proven effective in removing the Cu signal from all the tilt angle datasets. 
+A script written specifically for the deconvolution of Cu x-ray signal that might overlap with other elements in the sample, in EDX Tomography , the EDX spectrum will suffer from intense Cu x-ray signal especcially at high tiliting angles such as +/-60$$o$$ degrees. the Principal component analysis (PCA) has proven effective in removing the Cu signal from all the tilt angle datasets. 
 
 **3- Cathodoluminescence (CL) datasets denoising.**
 
