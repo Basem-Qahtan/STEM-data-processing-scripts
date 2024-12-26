@@ -4,6 +4,9 @@
 
 A code designed to segment large ensembles of heterogeneous nanocrystals and obtain a chemical composition on individual nanocrystals. this code utilizes the segment every grain algorithm (SEG) to segment individual nanocrystals in the HAADF image, the SEG algorithm can be found here: [segment every grain algorithm](https://github.com/zsylvester/segmenteverygrain), Watershed segmentation was added for segmentartion of agglomerated nanocrystals.
 
+Before running this script, an additional file named: sam_vit_h_4b8939.pth must be downloaded (link is avilable in the script).
+
+
 **2- EDX-Tomography dataset denoising.**
 
 A script written specifically for the deconvolution of Cu x-ray signal that might overlap with other elements in the sample, in EDX Tomography , the EDX spectrum will suffer from intense Cu x-ray signal especcially at high tiliting angles such as +/-60<sup>o</sup>. Principal component analysis (PCA) has proven effective in removing the Cu signal from all the tilt angle datasets. 
