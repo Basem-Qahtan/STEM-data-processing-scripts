@@ -1,4 +1,4 @@
-**A github respreotory with scripts developed for STEM-data processing as follows:**
+**A github respiratory with scripts developed for STEM-data processing as follows:**
 
 **1-Nanocrystals segmentation and population analysis.**
 
