@@ -1,4 +1,6 @@
-**A github respiratory with scripts developed for STEM-data processing as follows:**
+**A github respiratory with scripts developed for advanced STEM-data processing:**
+
+This repository contains a collection of scripts developed for the processing and analysis of Scanning Transmission Electron Microscopy (STEM) data. The scripts address various aspects of STEM data analysis, including nanocrystal segmentation, population analysis, and dataset denoising. The following sections provide an overview of the key components:
 
 **1-Nanocrystals segmentation and population analysis.**
 
